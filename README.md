@@ -18,3 +18,4 @@ Help GitHub get their priorities right by signing on as an individual (or organi
 ##Individuals:
 - [Mike Gifford](https://github.com/MGifford)
 - [Sina Bahram](https://github.com/SinaBahram)
+- [Amanda Rush](https://github.com/amandarush)
