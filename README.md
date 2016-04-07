@@ -24,3 +24,4 @@ We'd like GitHub to have a team of accessibility experts to resolve these issues
 - [Mike Gifford](https://github.com/MGifford)
 - [Sina Bahram](https://github.com/SinaBahram)
 - [Amanda Rush](https://github.com/amandarush)
+- [Steve Lee](https://github.com/SteveALee)
