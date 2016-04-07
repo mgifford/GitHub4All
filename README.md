@@ -1,7 +1,9 @@
 # GitHub4All
 A public space for accessibility issues with GitHub, not managed by GitHub. 
 
-GitHub is great! It has become a part of the infrastructure of progress. Yet many people with disabilities are not able, or have an incredibly frustrating time, to be part of this amazing community. This isn't because of a technical limitation, but is rather due to the various accessibility issues that make the usage of GitHub a frustrating experience for colaborators that use assistive technologies.
+Github is a complex application that incorporates many different tools. The Github interface is complex, but despite this has many features that make it a usable tool for many people, including people with disabilities. Yet people with disabilities can still find it difficult or frustrating to be part of the Github community, especially if they use assistive technologies like screen readers or speech recognition.
+
+Github4All is a place where those challenges can be surfaced and discussed, where solutions can be offered, and where the Github team can tap into the knowledge of the accessibility community already using this essential part of the infrastructure.
 
 ## What Can We Do About It?
 
