@@ -25,3 +25,4 @@ We'd like GitHub to have a team of accessibility experts to resolve these issues
 - [Sina Bahram](https://github.com/SinaBahram)
 - [Amanda Rush](https://github.com/amandarush)
 - [Benjamin Melançon](https://github.com/mlncn)
+- [Pratik Patel](https://github.com/PratikP1)
