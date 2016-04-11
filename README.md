@@ -26,3 +26,4 @@ We'd like GitHub to have a team of accessibility experts to resolve these issues
 - [Amanda Rush](https://github.com/amandarush)
 - [Benjamin Melançon](https://github.com/mlncn)
 - [Pratik Patel](https://github.com/PratikP1)
+- [Steve Lee](https://github.com/SteveALee)
